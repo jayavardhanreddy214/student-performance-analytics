@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Statistics,Attendance_Percent,Total_Marks,Average_Marks,Grade,Result,Attendance_Status
+STU001,Aarav Sharma,CSE,88,91,84,92,263.0,87.67,A,Pass,Meets requirement
+STU002,Diya Reddy,AIDS,76,82,79,95,237.0,79.0,B,Pass,Meets requirement
+STU003,Ishaan Kumar,ECE,67,72,70,88,209.0,69.67,C,Pass,Meets requirement
+STU004,Ananya Nair,CSE,95,94,97,98,286.0,95.33,A+,Pass,Meets requirement
+STU005,Rohan Patel,AIDS,54,61,58,78,173.0,57.67,D,Pass,Meets requirement
+STU006,Meera Iyer,EEE,81,85,83,91,249.0,83.0,A,Pass,Meets requirement
+STU007,Kabir Singh,CSE,39,52,48,84,139.0,46.33,F,Fail,Meets requirement
+STU008,Saanvi Rao,AIDS,90,87,93,96,270.0,90.0,A+,Pass,Meets requirement
+STU009,Arjun Das,ECE,72,68,75,89,215.0,71.67,B,Pass,Meets requirement
+STU010,Ira Menon,CSE,62,64,59,86,185.0,61.67,C,Pass,Meets requirement
+STU011,Vihaan Gupta,AIDS,84,79,88,93,251.0,83.67,A,Pass,Meets requirement
+STU012,Tara Joshi,EEE,47,43,51,75,141.0,47.0,F,Pass,Meets requirement
+STU013,Advik Verma,CSE,91,89,90,97,270.0,90.0,A+,Pass,Meets requirement
+STU014,Nisha Pillai,ECE,58,55,62,82,175.0,58.33,D,Pass,Meets requirement
+STU015,Reyansh Shah,AIDS,73,77,71,90,221.0,73.67,B,Pass,Meets requirement
+STU016,Myra Kulkarni,CSE,86,92,88,94,266.0,88.67,A,Pass,Meets requirement
+STU017,Dev Malhotra,EEE,33,38,42,69,113.0,37.67,F,Fail,Below requirement
+STU018,Aadhya Bose,AIDS,78,74,81,92,233.0,77.67,B,Pass,Meets requirement
+STU019,Kian Fernandes,ECE,64,71,66,87,201.0,67.0,C,Pass,Meets requirement
+STU020,Sara Thomas,CSE,98,96,94,99,288.0,96.0,A+,Pass,Meets requirement
