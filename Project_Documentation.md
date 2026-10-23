@@ -209,6 +209,6 @@ This project helped me understand how Python, NumPy, and Pandas can be combined 
 
 **Repository Name:** Student Performance Analytics System
 
-**GitHub Repository URL:** [Paste your GitHub repository URL here after uploading the project.]
+**GitHub Repository URL:** https://github.com/jayavardhanreddy214/student-performance-analytics/tree/main
 
 The repository contains the Python source code, student dataset, dependency file, README, and project documentation. It allows others to review the implementation and run the project locally.
