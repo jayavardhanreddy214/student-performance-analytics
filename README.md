@@ -38,11 +38,4 @@ These are starter assumptions; change them if your trainer specifies different r
    python main.py
    ```
 
-Keep `main.py` and `students.csv` in the same folder. The program writes `student_analysis_results.csv` after it runs.
 
-## Before submission
-- Run and test the code yourself.
-- Understand and personalize the functions and grading rules.
-- Add screenshots of your actual output to `screenshots/`.
-- Complete `Project_Documentation.md` with your own details and what you learned.
-- Verify the final repository and submission instructions with your trainer.
